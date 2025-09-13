@@ -86,8 +86,8 @@ useFrame((state) => {
 
 
 ### Descripción
-1. Sketch en 2D y 3D.  
-2. Figuras: `rect` (2D) y `box` (3D).  
+1. Sketch en 2D.  
+2. Figuras: `rect` (2D) .  
 3. Transformaciones animadas:
    - Traslación en círculo (`sin`, `cos`).  
    - Rotación (`rotate`, `rotateX`, `rotateY`).  

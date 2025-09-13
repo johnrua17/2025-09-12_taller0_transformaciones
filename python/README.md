@@ -26,7 +26,7 @@ El resultado final es una animación en formato **GIF** donde la figura cambia e
 4. Se exportó el resultado como **GIF animado**.
 
 ### Captura de ejemplo
-_(Incluye aquí una captura o el GIF generado por tu notebook)_  
+ 
 
 ![GIF Ejemplo](./python/transformations.gif)
 

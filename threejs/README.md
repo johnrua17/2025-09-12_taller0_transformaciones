@@ -17,7 +17,8 @@
 4. Se añadieron controles de cámara (`OrbitControls`).
 
 ### Captura de ejemplo
-_(Incluye aquí una captura del cubo animado)_  
+
+![alt text](image-1.png)
 
 ### Código relevante
 ```jsx

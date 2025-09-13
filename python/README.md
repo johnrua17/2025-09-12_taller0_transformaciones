@@ -28,8 +28,8 @@ El resultado final es una animación en formato **GIF** donde la figura cambia e
 ### Captura de ejemplo
  
 
-![GIF Ejemplo](./python/transformations.gif)
 
+![alt text](transformations-1.gif)
 ### Código relevante
 ```python
 transform = translation_matrix(tx, ty) @ rotation_matrix(angle) @ scale_matrix(scale, scale)

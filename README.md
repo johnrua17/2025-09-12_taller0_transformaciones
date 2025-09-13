@@ -80,7 +80,7 @@ useFrame((state) => {
 
 ---
 
-## Implementación en Processing (2D/3D)
+## Implementación en Processing (2D)
 
 ### Herramientas usadas
 
